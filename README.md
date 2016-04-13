@@ -14,6 +14,3 @@ interfaces available in the Geneva release, and version 2.0 of the SN API.
 
 ## KEYWORDS
 Service-Now, Powershell
-
-## SEE ALSO
-http://github.com/jbruett/posh-snow
