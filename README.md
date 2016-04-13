@@ -10,7 +10,7 @@ interfaces available in the Geneva release, and version 2.0 of the SN API.
     - Product Catalog and Software Asset Management
             
     
-## EXAMPLES
+## Examples
 
-## KEYWORDS
+## Keywords
 Service-Now, Powershell
